@@ -1,0 +1,36 @@
+SELECT * FROM itc6000.movies;
+
+CREATE TABLE Movie (
+  movie_id INT NOT NULL AUTO_INCREMENT,
+  name VARCHAR(250) ,
+  genre VARCHAR(250) ,
+  year int,
+  released INT ,
+  runtime INT ,
+  rateing INT , 
+  PRIMARY KEY (movie_id)
+);
+CREATE TABLE box_office (
+  box_office_ID INT NOT NULL AUTO_INCREMENT,
+   gross int,
+  released INT ,
+  score float ,
+  votes INT, 
+  PRIMARY KEY (box_office_ID)
+);
+
+CREATE TABLE team_members (
+  team_id INT NOT NULL AUTO_INCREMENT,
+	writer VARCHAR(250),
+  director VARCHAR(250) ,
+  star VARCHAR(250)  ,
+  PRIMARY KEY (team_id)
+);
+
+CREATE TABLE Production (
+  Production_id INT NOT NULL AUTO_INCREMENT,
+	budget VARCHAR(250),
+  company VARCHAR(250) ,
+  country VARCHAR(250)  ,
+  PRIMARY KEY (Production_id)
+);
