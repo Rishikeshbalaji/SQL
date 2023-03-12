@@ -1,0 +1,41 @@
+SELECT * FROM itc6000.movies;
+create table movie as
+	select genre, name, rating, released, runtime, year
+    FROM itc6000.`movies`;
+    
+create table movie_team as
+	select writer, director,star
+	FROM itc6000.`movies`;
+    
+create table production as
+	select budget, company, country
+	FROM itc6000.`movies`;
+    
+    
+create table box_office as
+	select gross, score, votes
+	FROM itc6000.`movies`;
+    
+alter table movie 
+ADD movie_id int;
+
+ALTER TABLE movie
+ADD PRIMARY KEY (movie_id);
+
+alter table movie_team
+add movie_team_ID int;
+
+ALTER TABLE movie_team
+ADD PRIMARY KEY (movie_team_ID);
+
+alter table production
+add production_ID int;
+
+ALTER TABLE production
+ADD PRIMARY KEY (production_ID);
+
+alter table box_office
+add box_office_ID int;
+
+ALTER TABLE box_office
+ADD PRIMARY KEY (box_office_ID);
