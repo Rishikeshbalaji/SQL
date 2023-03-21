@@ -1,0 +1,9 @@
+Country Name,Country Code,Series Name,Series Code,2007 [YR2007],2016 [YR2016],HIV
+Australia,AUS,Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,1000,1000,..
+,,,,,,
+,,,,,,
+,,,,,,
+Data from database: World Development Indicators,,,,,,
+Last Updated: 03/01/2023,,,,,,
+Code,License Type,Indicator Name,Long definition,Source,Topic,Periodicity,Development relevance,General comments,License URL
+SH.HIV.INCD,CC BY-4.0,Adults (ages 15-49) newly infected with HIV,Number of adults (ages 15-49) newly infected with HIV.,UNAIDS estimates.,Health: Risk factors,Annual,"Despite the existence of effective medications and treatment, HIV/AIDS is still a leading cause of death and public health threat in the world.  Low and middle income countries continue to bear a disproportionate share of the global burden of HIV/AIDS. The incidence rate provides a measure of progress toward preventing onward transmission of HIV. Also, the identification of newly infected persons will allow for interventions to reduce the risk of HIV transmission.",This indicator is related to Sustainable Development Goal 3.3.1 [https://unstats.un.org/sdgs/metadata/].,https://datacatalog.worldbank.org/public-licenses#cc-by

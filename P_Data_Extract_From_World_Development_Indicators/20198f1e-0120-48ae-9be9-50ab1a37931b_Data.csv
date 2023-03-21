@@ -1,0 +1,20 @@
+Country Name,Country Code,Series Name,Series Code,2007 [YR2007],2016 [YR2016]
+Australia,AUS,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,SH.HIV.INCD.TL,1000,910
+Australia,AUS,Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,1000,1000
+Australia,AUS,Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS,55,79
+Australia,AUS,Children (0-14) living with HIV,SH.HIV.0014,..,..
+Australia,AUS,Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,..,..
+Australia,AUS,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",SH.HIV.INCD.YG.P3,0.03,0.02
+Australia,AUS,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",SH.HIV.INCD.ZS,0.09,0.07
+Australia,AUS,"Incidence of HIV, all (per 1,000 uninfected population)",SH.HIV.INCD.TL.P3,0.05,0.04
+Australia,AUS,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1,0.1
+Australia,AUS,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1,0.1
+Australia,AUS,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1,0.1
+Australia,AUS,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,13.1,12.8
+Australia,AUS,Young people (ages 15-24) newly infected with HIV,SH.HIV.INCD.YG,100,100
+Australia,AUS,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS,..,..
+,,,,,
+,,,,,
+,,,,,
+Data from database: World Development Indicators,,,,,
+Last Updated: 03/01/2023,,,,,
